@@ -49,6 +49,7 @@ pkg install git
 
 git clone https://github.com/gtaminul-cmyk/TAMIM-HASH-CRACKER.git
 
+cd TAMIM-HASH-CRACKER
 
 curl -L -o rockyou.txt https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 
